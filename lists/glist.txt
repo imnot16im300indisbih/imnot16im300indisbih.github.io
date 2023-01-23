@@ -1,0 +1,1009 @@
+rand ~||
+Random game ~||
+New,Play random game ~||
+https://static.vecteezy.com/system/resources/thumbnails/006/899/230/small/mystery-random-loot-box-from-game-icon-vector.jpg ~||
+N/A GAME ~||
+na ~||
+na ~||
+SORT BY DATE - https://fjolt.com/article/javascript-hate-sort-by-date ~||
+
+~~|%%|~~
+
+matrix ~||
+Matrix Rampage ~||
+New,Fighting,2D,Arcade,Action,Endless ~||
+https://assets.codepen.io/2104921/matrixramp.png ~||
+1/22/2023 ~||
+T. Suriyathep ~||
+https://twitter.com/tsuriyathep ~||
+desc ~||
+
+~~|%%|~~
+
+factoryballs ~||
+Factory Balls ~||
+New,Simulator,2D,Endless ~||
+https://assets.codepen.io/2104921/fact.png ~||
+1/22/2023 ~||
+engineering.com ~||
+https://www.engineering.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+brutal ~||
+Brutal Demo ~||
+New,Fighting,2D,RPG ~||
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Blank_Square.svg/1200px-Blank_Square.svg.png ~||
+1/22/2023 ~||
+Soulight_ ~||
+https://scratch.mit.edu/users/Soulight_/ ~||
+desc ~||
+
+~~|%%|~~
+
+driftboss ~||
+Drift Boss ~||
+New,Drifting,3D,Endless ~||
+https://play-lh.googleusercontent.com/V-Sqg0Ch68gNuE1aGKt0lCT29YVwt1n8vZQrH56HWGoXSTV8PKzzmzrijGwDG9fZtLU=w240-h480-rw ~||
+1/22/2023 ~||
+MathPlayground ~||
+https://www.mathplayground.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+ballblast ~||
+Ball Blast ~||
+New,Arcade,2D,Endless ~||
+https://play-lh.googleusercontent.com/abdN9bVUywY3rcZ4y7fV0wwuCJIWugCusOqVtwPZdgUN3hvrZ8ORVUYQj8OTgAXLlJw ~||
+1/22/2023 ~||
+AnimationsScratch ~||
+https://scratch.mit.edu/users/AnimationsScratch/ ~||
+desc ~||
+
+~~|%%|~~
+
+terraria ~||
+Terraria ~||
+New,Adventure,2D,Exploration,Action,Open world ~||
+https://play-lh.googleusercontent.com/BoAvMI_6JGNRBp_3gFaVuLuqW_4J-rjtbR_giKFoJRvZmDiPtDlnLMur9cT7sTTfeos ~||
+1/22/2023 ~||
+scratchfan321 ~||
+https://scratch.mit.edu/users/scratchfan321/ ~||
+desc ~||
+
+~~|%%|~~
+
+cubesurfer ~||
+Cube Surfer ~||
+New,Endless,Mobile port,3D ~||
+https://play-lh.googleusercontent.com/i5oYALfCXnfczjr5RroaJhpCLgVai8W28U3qEdx3vcn3tTea6CZtRrNEUeRIk0kQcQ ~||
+1/22/2023 ~||
+Voodoo ~||
+https://www.voodoo.io/ ~||
+desc ~||
+
+~~|%%|~~
+
+doodlejump ~||
+Doodle Jump ~||
+New,Endless,2D,Mobile port ~||
+https://play-lh.googleusercontent.com/aHnvdFTx0LVyfVHQLX51VcWBYkSVGvggr4FvIiP-iwBu4pKBiOQA1OnRi_nyFdCWqlU8 ~||
+1/22/2023 ~||
+Lima Sky ~||
+http://www.limasky.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+mine-sweeper ~||
+Mine Sweeper ~||
+New,Arcade,Competitive ~||
+https://assets.codepen.io/2104921/mcms.jpeg ~||
+1/22/2023 ~||
+Microsoft ~||
+https://www.microsoft.com/en-us/ ~||
+desc ~||
+
+~~|%%|~~
+
+vex6 ~||
+Vex 6 ~||
+New,Platformer,2D,Arcade,Adventure ~||
+https://assets.codepen.io/2104921/vex6.jpeg ~||
+1/22/2023 ~||
+Amazing Adam Games ~||
+https://www.mostfungames.com/amazing-adam.htm ~||
+desc ~||
+
+~~|%%|~~
+
+vex7 ~||
+Vex 7 ~||
+New,Platformer,2D,Arcade,Adventure ~||
+https://assets.codepen.io/2104921/vex7.jpeg ~||
+1/22/2023 ~||
+Amazing Adam Games ~||
+https://www.mostfungames.com/amazing-adam.htm ~||
+desc ~||
+
+~~|%%|~~
+
+paperio2 ~||
+Paper.io ~||
+IO,Multiplayer,Competitive,Mobile port ~||
+https://www.saashub.com/images/app/service_logos/75/9695809c04d5/large.png?1567784435 ~||
+11/28/22 ~||
+Voodoo ~||
+https://www.voodoo.io/ ~||
+desc ~||
+
+~~|%%|~~
+
+bowman ~||
+Bowman ~||
+Fighting,2 player,2D,Competitive,Arcade ~||
+https://assets.codepen.io/2104921/bowman.jpeg ~||
+11/23/22 ~||
+AddictingGames.com ~||
+https://addictinggames.com ~||
+desc ~||
+
+~~|%%|~~
+
+tube-jumpers ~||
+Tube Jumpers ~||
+Simulator,2 player,Competitive,2D ~||
+https://assets.codepen.io/2104921/tj.jpeg ~||
+11/23/22 ~||
+Michael Eichler ~||
+https://apps.apple.com/us/developer/michael-eichler/id1044002188 ~||
+desc ~||
+
+~~|%%|~~
+
+agario ~||
+Agar.io ~||
+Multiplayer,Endless,Competitive,IO,2D,MMO ~||
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWN41CUpZ1mNxziYcvQIXmNsXYFHLCWPxVZ0x4Q7K6ic4ndLC9BUbQrWR8MsfZHUkBk1Y:https://static.wikia.nocookie.net/gamia_gamepedia_en/images/5/54/Agario.png/revision/latest%3Fcb%3D20201123164520&usqp=CAU ~||
+11/1/2022 ~||
+Matheus Valadares ~||
+https://twitter.com/matheus28?lang=en ~||
+desc ~||
+
+~~|%%|~~
+
+deathchase3 ~||
+Death Chase 3 ~||
+Driving,Competitive,Racing,Multiplayer,2D,Arcade ~||
+https://assets.codepen.io/2104921/dc3.png ~||
+10/10/2022 ~||
+friv.com ~||
+https://www.friv.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+crossyroad ~||
+Crossy Road ~||
+Endless,3D,Arcade,Mobile port ~||
+https://play-lh.googleusercontent.com/2yH_JCxn7D9FttXZViPhmvIEDfRhio5qdLdWJLxcIfh8PjIkVeBgt_Gj7q21dIRp97g ~||
+11/1/2022 ~||
+Hipster Whale ~||
+https://www.hipsterwhale.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+spelunky ~||
+Spelunky ~||
+Adventure,Fighting,2D,Exploration ~||
+https://assets-prd.ignimgs.com/2021/01/05/spelunky-1-button-1609885393868.jpg ~||
+11/1/2022 ~||
+Derek Yu ~||
+https://twitter.com/mossmouth ~||
+desc ~||
+
+~~|%%|~~
+
+madalin-stunt-cars-3 ~||
+Madalin Cars ~||
+Driving,3D,Simulator,Open world ~||
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMn7PRyy23mGX_92OTC77dcygShkRJb_MQTw:https://softstribe.com/app/uploads/icons/com-trendsetter-madalin-stunt-cars-free-car-racing-icon.jpg&usqp=CAU ~||
+11/1/2022 ~||
+Madalin Stanciu ~||
+https://www.instagram.com/madalin_stanciu/ ~||
+desc ~||
+
+~~|%%|~~
+
+bobtherobber ~||
+Bob The Robber ~||
+2D,Adventure,Strategy,Story ~||
+https://tcf.admeen.org/category/3000/2948/400x400/bob-the-robber.jpg ~||
+10/15/2022 ~||
+Funtomic ~||
+https://funtomic.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+papaspizzaria ~||
+Papa's Pizzeria ~||
+Adventure,Endless,Simulator,Story,2D ~||
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnKMNpbutmOVOuippHY3qs6P6_5iRnKCPYAg:https://cms.bitent.com/assets/games/thumbs/ik/217x217/papas_pizzeria_big_611971081717b.png&usqp=CAU ~||
+10/15/2022 ~||
+Flipline Studios ~||
+https://www.flipline.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+papasburgeria ~||
+Papa's Burgeria ~||
+Adventure,Endless,Simulator,Story,2D ~||
+https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/27/e9/60/27e96015-ace0-1a94-b29b-b8873d03d08f/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/1024x1024bb.png ~||
+10/15/2022 ~||
+Flipline Studios ~||
+https://www.flipline.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+papasscooperia ~||
+Papa's Scooperia ~||
+Adventure,Endless,Simulator,Story,2D ~||
+https://play-lh.googleusercontent.com/6PkFT1nYqljZNL_h6WcgATAEGLH4jrVjHIegSB9d_KG3AISIzs8dzT4IgddKb60Fb5Lx ~||
+10/15/2022 ~||
+Flipline Studios ~||
+https://www.flipline.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+madnessnexus ~||
+Madness Combat ~||
+Action,Fighting,2D,Story,Shooter ~||
+https://i1.sndcdn.com/artworks-2STcffJPEbtfr7oK-B1jZuw-t500x500.jpg ~||
+10/15/2022 ~||
+Krinkels and The-Swain ~||
+https://krinkels.newgrounds.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+gettingoverit ~||
+Getting over it ~||
+Rage,3D,Exploration ~||
+https://gettingoverit-game.com/wp-content/uploads/2022/08/getting-over-it-scratch.jpg ~||
+10/16/2022 ~||
+griffpatch ~||
+https://scratch.mit.edu/users/griffpatch/ ~||
+desc ~||
+
+~~|%%|~~
+
+skyisland2 ~||
+Sky Island 2 ~||
+Action,2D,Fighting,Shooter,Endless ~||
+https://assets.codepen.io/2104921/skyisland2.png ~||
+10/16/2022 ~||
+flynn2019pw ~||
+https://scratch.mit.edu/users/flynn2019pw/ ~||
+desc ~||
+
+~~|%%|~~
+
+madburger3 ~||
+Mad Burger 3 ~||
+Adventure,2D,Story,Physics ~||
+https://play-lh.googleusercontent.com/NWR5dfBtwqK729Rdihc9g-WYpm2gyOg4yxEB8coWDgwSDoWMIJqTuGgeouYBFy_FuHY=w240-h480-rw ~||
+10/18/2022 ~||
+Creepy Brothers Studio ~||
+http://creepybrothers.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+btd1 ~||
+Bloons TD ~||
+Tower Defense,2D,Action,Fighting ~||
+https://i.pinimg.com/originals/1d/a4/5e/1da45ef58fdaa945a4933f61b4d1ef2d.png ~||
+10/16/2022 ~||
+Ninja Kiwi ~||
+https://ninjakiwi.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+btd4 ~||
+Bloons TD4 ~||
+Tower Defense,2D,Action,Fighting ~||
+https://assets.codepen.io/2104921/btd4.png ~||
+10/16/2022 ~||
+Ninja Kiwi ~||
+https://ninjakiwi.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+run3 ~||
+Run 3 ~||
+Endless,Runner,2D,Space,Adventure,Platformer ~||
+https://assets1.ignimgs.com/2018/06/18/run-3-0-button-1529363477468.jpg ~||
+10/10/2022 ~||
+player03.com ~||
+https://player03.com/run/1/beta/ ~||
+desc ~||
+
+~~|%%|~~
+
+tanuki-sunset ~||
+Tanuki Sunset ~||
+Endless,Driving,Skateboard,3D,Drifting ~||
+https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/34e2cad0-8326-4a17-8d9f-f37832154061/dejyyx3-09639d42-5db7-4c5e-8c89-ee71694533c2.png ~||
+10/10/2022 ~||
+Squid Squad games ~||
+https://squidsquadgames.itch.io/ ~||
+desc ~||
+
+~~|%%|~~
+
+subwaysurfers ~||
+Subway Surfers ~||
+Endless,Runner,3D,Mobile port ~||
+https://play-lh.googleusercontent.com/s6JGmEQedDR2jR8qQGi5hDAaMXZzI7aI7EY7mrF9OgCfUZ0nXElxqo5z12XFi7TEJ8g ~||
+10/10/2022 ~||
+Kiloo and SYBO Games ~||
+https://www.kiloo.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+gunmayhem-r ~||
+Gun Mayhem R ~||
+Action,2D,Shooter,Competitive,2 player,Multiplayer ~||
+https://assets.codepen.io/2104921/gmr.jpeg ~||
+10/10/2022 ~||
+Kevin Gu ~||
+https://www.thekevingu.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+gunmayhem2 ~||
+Gun Mayhem 2 ~||
+Action,2D,Shooter,Competitive,2 player,Multiplayer ~||
+https://assets.codepen.io/2104921/gm2.jpeg ~||
+10/10/2022 ~||
+Kevin Gu ~||
+https://www.thekevingu.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+retro-bowl ~||
+Retrobowl ~||
+Sports,2D,Arcade ~||
+https://pbs.twimg.com/profile_images/1217942835527409665/swRMqEkK_400x400.jpg ~||
+10/10/2022 ~||
+New Star Games ~||
+https://www.newstargames.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+drifthunters ~||
+Drift Hunters ~||
+Driving,Drifting,Open world,3D ~||
+https://play-lh.googleusercontent.com/BTNEh2Z3EYM6CRPSNV4vXDFaMhVSaZdcZlbE4Fv_If_Ad-TcJzpAjAbCpioXmgcrIS63 ~||
+10/10/2022 ~||
+Ilya Kaminetsky ~||
+https://ilyakaminetsky.itch.io/ ~||
+desc ~||
+
+~~|%%|~~
+
+jetboy ~||
+Jetboy ~||
+Platformer,2D ~||
+https://assets.codepen.io/2104921/jetboy.png ~||
+10/10/2022 ~||
+coolmathgames.com ~||
+https://coolmathgames.com ~||
+desc ~||
+
+~~|%%|~~
+
+cookieclicker ~||
+Cookie Clicker ~||
+Idle,Clicker,Endless ~||
+https://gamificationplus.uk/wp-content/uploads/2016/03/Capture1.png ~||
+10/10/2022 ~||
+orteil ~||
+https://orteil.dashnet.org/ ~||
+desc ~||
+
+~~|%%|~~
+
+myfriendpedro ~||
+My Friend Pedro ~||
+Shooter,2D,Platformer,Action,Story ~||
+https://cdn.80.lv/api/upload/post/6909/images/5d2dbe15ba787/widen_2440x0.png ~||
+10/10/2022 ~||
+DeadToast Entertainment ~||
+https://twitter.com/deadtoast_com?lang=en ~||
+desc ~||
+
+~~|%%|~~
+
+pedro-arena ~||
+MFP Arena ~||
+Shooter,2D,Platformer,Action,Endless ~||
+https://cdn.80.lv/api/upload/post/6909/images/5d2dbe15ba787/widen_2440x0.png ~||
+10/10/2022 ~||
+DeadToast Entertainment ~||
+https://twitter.com/deadtoast_com?lang=en ~||
+desc ~||
+
+~~|%%|~~
+
+taptricks ~||
+Tap Tricks Demo ~||
+Platformer,2D,Skateboard ~||
+https://assets.codepen.io/2104921/taptricks.png ~||
+10/10/2022 ~||
+Salman Shurie and Britt Brady ~||
+https://salmanshh.itch.io/ ~||
+desc ~||
+
+~~|%%|~~
+
+redarcher ~||
+Red Archer ~||
+Shooter,Platformer,3D ~||
+https://assets.codepen.io/2104921/redarhcer.png ~||
+10/10/2022 ~||
+Bad Piggy ~||
+https://badpiggy.itch.io/ ~||
+desc ~||
+
+~~|%%|~~
+
+basketbros ~||
+Basketbros.io ~||
+Sports,2D,2 player,Multiplayer,Competitive ~||
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmVBWWs5bLUMrteI34FcfTW49WHUGhw6cAg8XTWqLd5s215CD0JqolH89iTRhjJnMK-bY:https://www.basketballlegends.club/upload/images-big/basketbros.jpg&usqp=CAU ~||
+10/10/2022 ~||
+Blue Wizard ~||
+https://bluewizard.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+templerun2 ~||
+Temple Run 2 ~||
+Endless,Runner,3D,Mobile port ~||
+https://assets.codepen.io/2104921/tr2.png ~||
+10/10/2022 ~||
+Imangi Studios ~||
+https://imangistudios.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+motox3m ~||
+Moto x3m ~||
+Driving,2D,Platformer ~||
+https://img.utdstc.com/icon/404/aeb/404aeb2ec5c64c096c3e7b77ece99dc3f977a4d60034299665ef17a23dbccd5d:200 ~||
+10/10/2022 ~||
+Mad Puffers ~||
+http://madpuffers.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+turbomotoracer ~||
+Turbo moto racer ~||
+Driving,Endless,Story,3D ~||
+https://assets.codepen.io/2104921/tmr.png ~||
+10/10/2022 ~||
+Y8.com ~||
+https://www.y8.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+sort-the-court ~||
+Sort the Court ~||
+Story,Adventure,2D ~||
+https://assets.codepen.io/2104921/sortcourt.png ~||
+10/10/2022 ~||
+https://www.graemeborland.com/ ~||
+devlink ~||
+desc ~||
+
+~~|%%|~~
+
+timeshooter2 ~||
+Time Shooter 2 ~||
+Shooter,3D,Endless,Story ~||
+https://assets.codepen.io/2104921/ts2.PNG ~||
+10/10/2022 ~||
+GGM Gogoman ~||
+https://www.y8.com/studios/gogoman ~||
+desc ~||
+
+~~|%%|~~
+
+timeshooter3 ~||
+Time Shooter 3 ~||
+Shooter,3D,Endless,Story ~||
+https://assets.codepen.io/2104921/ts3.PNG ~||
+10/10/2022 ~||
+GGM Gogoman ~||
+https://www.y8.com/studios/gogoman ~||
+desc ~||
+
+~~|%%|~~
+
+wordle ~||
+Wordle + ~||
+Educational,Endless ~||
+https://deseret.brightspotcdn.com/dims4/default/14c454e/2147483647/strip/false/crop/1230x1230+0+0/resize/1230x1230!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FO1oaQ9moTo6-qDMDLTMhjdNOaeM%3D%2F0x0%3A1230x1230%2F1230x1230%2Ffilters%3Afocal%28615x615%3A616x616%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F23307094%2FScreen_Shot_2022_01_30_at_10.05.09_PM.png ~||
+10/10/2022 ~||
+mikhad ~||
+https://mikhad.github.io/ ~||
+desc ~||
+
+~~|%%|~~
+
+idle-breakout ~||
+Idle Breakout ~||
+Idle,Clicker,Endless ~||
+https://play-lh.googleusercontent.com/e5jzYTn7Mjh9Ghn-DFpVedkOlRfSOyCS2AFgXdTrADIuuUbjx6vP6r_YOM2j5m7uLQ ~||
+10/10/2022 ~||
+kodiqi ~||
+https://kodiqi.itch.io/ ~||
+desc ~||
+
+~~|%%|~~
+
+fnf ~||
+FNF ~||
+Rhythm,2D,Story ~||
+https://i1.sndcdn.com/artworks-ZpznP0W5HRj16UR8-2CRmGg-t500x500.jpg ~||
+10/10/2022 ~||
+ninja muffin 24 ~||
+https://ninja-muffin24.itch.io/ ~||
+desc ~||
+
+~~|%%|~~
+
+portal ~||
+Portal flash ~||
+Platformer,2D,Story ~||
+https://assets.codepen.io/2104921/portalflash.png ~||
+10/10/2022 ~||
+We Create Stuff ~||
+https://wecreatestuff.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+99balls ~||
+99 balls ~||
+Endless,Arcade ~||
+https://ik.imagekit.io/sjyfpsp1n/portal/html5games/images/tmp/99BallsTeaser.jpg ~||
+10/10/2022 ~||
+Diamond Games ~||
+https://diamond-games.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+ageofwar ~||
+Age of war ~||
+Tower defense,Arcade,2D ~||
+https://assets.codepen.io/2104921/ageofwar_1.png ~||
+10/10/2022 ~||
+Max Games Studios ~||
+https://www.maxgames.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+linerider ~||
+Line Rider ~||
+Building,2D,Physics ~||
+https://pb583030755.peerboard.com/583030755/file/7c6395f0-45b1-43db-96fc-dbd934f0e33e ~||
+10/10/2022 ~||
+inXile entertainment ~||
+https://www.inxile-entertainment.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+tankduel3d ~||
+Tank Duel 3D ~||
+2 player,3D,Multiplayer,Competitive ~||
+https://assets.codepen.io/2104921/td3d.jpeg ~||
+10/10/2022 ~||
+twoplayergames.org ~||
+https://www.twoplayergames.org/ ~||
+desc ~||
+
+~~|%%|~~
+
+tetris ~||
+Tetris ~||
+Arcade,2D,Endless ~||
+https://irate4x4.com/media/classic-tetris-logo-png.31125/full ~||
+10/10/2022 ~||
+rossipotti ~||
+https://www.rossipotti.de/ ~||
+desc ~||
+
+~~|%%|~~
+
+tubejumpers ~||
+Tube Jumpers ~||
+2 player,2D,Competitive ~||
+https://is2-ssl.mzstatic.com/image/thumb/Purple60/v4/ac/67/c3/ac67c32a-c3a5-be5c-4f3d-13258950e527/source/512x512bb.jpg ~||
+10/10/2022 ~||
+Michael Eichler ~||
+https://apps.apple.com/us/developer/michael-eichler/id1044002188 ~||
+desc ~||
+
+~~|%%|~~
+
+worlds-hardest-game ~||
+Hardest Game ~||
+Rage,2D ~||
+https://store-images.microsoft.com/image/apps.17710.13510798885956294.63a83af1-649d-4866-930d-e41e6726284a.59da368e-f058-4860-91bd-069d1c2b6cdf?mode=scale&q=90&h=200&w=200&background=%23464646 ~||
+10/10/2022 ~||
+Batuhan Ertan ~||
+https://www.pcgamebenchmark.com/batuhan-ertan-pc-games ~||
+desc ~||
+
+~~|%%|~~
+
+superbuddykick ~||
+Super Buddy Kick ~||
+Rage,2D,Arcade ~||
+http://static3.ufreegames.io/covers/super/kick-the-buddy.jpg ~||
+10/10/2022 ~||
+kiz10.com ~||
+https://kiz10.com ~||
+desc ~||
+
+~~|%%|~~
+
+impossiblequiz2 ~||
+Impossible Quiz 2 ~||
+Arcade,Rage ~||
+https://assets.codepen.io/2104921/iq2.png ~||
+10/10/2022 ~||
+Slapp-me-do ~||
+https://twitter.com/splappmedo?lang=en ~||
+desc ~||
+
+~~|%%|~~
+
+exhibitofsorrows ~||
+Exhibit Sorrows ~||
+Horror,Story,2D ~||
+https://assets.codepen.io/2104921/exhibit.jpg ~||
+10/10/2022 ~||
+Adayofjoy ~||
+https://adayofjoy.itch.io ~||
+desc ~||
+
+~~|%%|~~
+
+iceagebaby ~||
+Ice Age Baby ~||
+Story,3D ~||
+https://assets.codepen.io/2104921/killtheiceagy.PNG ~||
+10/10/2022 ~||
+kypello ~||
+https://kypello.itch.io/ ~||
+desc ~||
+
+~~|%%|~~
+
+hordekiller ~||
+Horde Killer ~||
+Shooter,3D,Endless ~||
+https://assets.codepen.io/2104921/hordekill.jpeg ~||
+10/10/2022 ~||
+GGM gogoman ~||
+https://www.y8.com/studios/gogoman ~||
+desc ~||
+
+~~|%%|~~
+
+dreader ~||
+Dreader ~||
+Horror,Story ~||
+https://assets.codepen.io/2104921/dreaderpng.png ~||
+10/10/2022 ~||
+Donitz ~||
+https://donitz.itch.io/ ~||
+desc ~||
+
+~~|%%|~~
+
+among-us ~||
+Among us 1p ~||
+Multiplayer,2D ~||
+https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec ~||
+10/10/2022 ~||
+klopity ~||
+https://klopity.itch.io/ ~||
+desc ~||
+
+~~|%%|~~
+
+incredibox ~||
+Incredibox ~||
+Rhythm,Exploration ~||
+https://upload.wikimedia.org/wikipedia/en/8/82/Incredibox-logo.png ~||
+10/10/2022 ~||
+So Far So Good ~||
+http://www.sofarsogood.fr/ ~||
+desc ~||
+
+~~|%%|~~
+
+shellshockers ~||
+Shell shockers ~||
+Shooter,FPS,3D,Multiplayer ~||
+https://cdn-images.threadless.com/threadless-media/artist_shops/shops/bluewizard/products/1617669/original-1621960642-2ac607f273a319bd81ac2f36de28fac5.png?v=3&d=eyJvbmx5X21ldGEiOiBmYWxzZSwgImZvcmNlIjogZmFsc2UsICJvcHMiOiBbWyJ0cmltIiwgW2ZhbHNlLCBmYWxzZV0sIHt9XSwgWyJyZXNpemUiLCBbXSwgeyJ3aWR0aCI6IDk5Ni4wLCAiYWxsb3dfdXAiOiBmYWxzZSwgImhlaWdodCI6IDk5Ni4wfV0sIFsiY2FudmFzX2NlbnRlcmVkIiwgWzEyMDAsIDEyMDBdLCB7ImJhY2tncm91bmQiOiAiZmZmZmZmIn1dLCBbInJlc2l6ZSIsIFs4MDBdLCB7fV0sIFsiY2FudmFzX2NlbnRlcmVkIiwgWzgwMCwgODAwLCAiI2ZmZmZmZiJdLCB7fV0sIFsiZW5jb2RlIiwgWyJqcGciLCA4NV0sIHt9XV19 ~||
+10/10/2022 ~||
+Blue Wizard ~||
+https://bluewizard.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+slope ~||
+Slope ~||
+Endless,3D ~||
+https://play-lh.googleusercontent.com/uJn2i9h7KxYQarC_c3K4qH6o7gLtflFnhD_dN14MNkzHJ1NeNFzCL69jpB5mT0vCoQs ~||
+10/10/2022 ~||
+Y8.com ~||
+https://y8.com ~||
+desc ~||
+
+~~|%%|~~
+
+townscaper ~||
+Townscaper ~||
+Building,3D ~||
+https://rawfury.com/games/townscaper/townscaper-217033606/ ~||
+10/10/2022 ~||
+Raw Fury ~||
+https://rawfury.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+cattrap ~||
+Cat Trap ~||
+Arcade,Rage,2D ~||
+https://assets.codepen.io/2104921/ct.png ~||
+10/10/2022 ~||
+Llerah ~||
+https://llerrah.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+championisland ~||
+Champion Island ~||
+Story,2D,Arcade ~||
+https://assets.codepen.io/2104921/championisland.PNG ~||
+10/10/2022 ~||
+google ~||
+https://google.com ~||
+desc ~||
+
+~~|%%|~~
+
+elasticman ~||
+Elasticman ~||
+Arcade,3D,Physics ~||
+https://assets.codepen.io/2104921/em.png ~||
+10/10/2022 ~||
+adult swim games ~||
+https://www.adultswim.com/games ~||
+desc ~||
+
+~~|%%|~~
+
+snowbattle ~||
+Snowbattle.io ~||
+Fighting,3D,Multiplayer ~||
+https://connect-prd-cdn.unity.com/20200827/udp/images/647e8f6b-ecfa-4e5b-ac40-7867d790efd5_ic.png ~||
+10/10/2022 ~||
+Y8.com ~||
+https://y8.com ~||
+desc ~||
+
+~~|%%|~~
+
+rooftop-snipers ~||
+Rooftop Snipers ~||
+Fighting,2 player,2D,Multiplayer ~||
+https://assets.codepen.io/2104921/rooftopsnipers.png ~||
+10/10/2022 ~||
+twoplayergames.org ~||
+https://twoplayergames.org ~||
+desc ~||
+
+~~|%%|~~
+
+getaway-shootout ~||
+GTW Shootout ~||
+Getaway shootout,Fighting,2 player,2D,Multiplayer ~||
+https://assets.codepen.io/2104921/gs.png ~||
+10/10/2022 ~||
+twoplayergames.org ~||
+https://twoplayergames.org ~||
+desc ~||
+
+~~|%%|~~
+
+ducklife3 ~||
+Duck Life 3 ~||
+Racing,2D,Story ~||
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEj6LwhwgZkjHq_AghTfYlnX0AQmS8p2rAFGh1EoMruNtwk8QM9XQW7JC-Dl1R6-IJhYM:https://lookaside.fbsbx.com/lookaside/crawler/media/%3Fmedia_id%3D3264229280306316&usqp=CAU ~||
+10/10/2022 ~||
+Wix Games ~||
+https://games.wixgames.co.uk/ ~||
+desc ~||
+
+~~|%%|~~
+
+ducklife4 ~||
+Duck Life 4 ~||
+Racing,2D,Story ~||
+https://4ts097296.netlify.app/projects/ducklife4/splash.jpg ~||
+10/10/2022 ~||
+Wix Games ~||
+https://games.wixgames.co.uk/ ~||
+desc ~||
+
+~~|%%|~~
+
+vex3 ~||
+Vex 3 ~||
+Platformer,2D ~||
+https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/23/cc/ea/23ccea49-28e1-2327-8b95-5d05a00a312e/source/512x512bb.jpg ~||
+10/10/2022 ~||
+Y8.com ~||
+https://y8.com ~||
+desc ~||
+
+~~|%%|~~
+
+vex4 ~||
+Vex 4 ~||
+Platformer,2D ~||
+https://store-images.s-microsoft.com/image/apps.16029.14622517353732960.576abfa8-e499-4dbe-adc4-750c6ba65c7f.72a18063-f8b6-41b6-a6ca-8d549bd33d53?mode=scale&q=90&h=200&w=200&background=%23FFFFFF ~||
+10/10/2022 ~||
+Y8.com ~||
+https://y8.com ~||
+desc ~||
+
+~~|%%|~~
+
+draw-the-hill ~||
+Draw the hill ~||
+Arcade,2D,Endless ~||
+https://assets.codepen.io/2104921/dth.png ~||
+10/10/2022 ~||
+Stelennnn ~||
+https://codecanyon.net/user/stelennnn/portfolio ~||
+desc ~||
+
+~~|%%|~~
+
+death-run-3d ~||
+Death Run 3d ~||
+Endless,3D,Arcade ~||
+https://assets.codepen.io/2104921/deathrun3d.png ~||
+10/10/2022 ~||
+Y8.com ~||
+https://y8.com ~||
+desc ~||
+
+~~|%%|~~
+
+ctr ~||
+Cut the rope ~||
+Physics,2D ~||
+https://assets.codepen.io/2104921/ctr-logo.png ~||
+10/10/2022 ~||
+ZeptoLab ~||
+https://www.zeptolab.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+cannon-basketball-4 ~||
+CN Basketball ~||
+Cannon basketball,Sports,Physics ~||
+https://kizicdn.com/system/static/thumbs/tile_thumb/1613/thumb150_original_300.jpg?1556202642 ~||
+10/10/2022 ~||
+Nepix Games ~||
+https://play.google.com/store/apps/dev?id=9119172911597417823&hl=en_US&gl=US&pli=1 ~||
+desc ~||
+
+~~|%%|~~
+
+bloxors ~||
+Bloxorz ~||
+Rage,3D,Platformer ~||
+https://4ts097296.netlify.app/projects/bloxors/block.png ~||
+10/10/2022 ~||
+DX Interactive ~||
+https://dx-interactive.newgrounds.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+stack ~||
+Stack ~||
+Endless,Arcade,3D ~||
+https://play-lh.googleusercontent.com/WRlGQXa9Pav7YZPW-P5X8PAga0lF2T1BAzmasxB9qV_1_om5DgmMbxOFo2SK8ZN5K5k ~||
+10/10/2022 ~||
+Steve Gardner ~||
+https://codepen.io/ste-vg ~||
+desc ~||
+
+~~|%%|~~
+
+bindingofissac ~||
+Binding of Isacc ~||
+RPG,Arcade,2D ~||
+https://assets-prd.ignimgs.com/2021/12/21/bindingofisaac-1640047506280.jpg?width=300&crop=1%3A1%2Csmart ~||
+10/10/2022 ~||
+Edmund McMiller ~||
+https://twitter.com/edmundmcmillen?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor ~||
+desc ~||
+
+~~|%%|~~
+
+basketball-stars ~||
+Basketball Stars ~||
+Sports,2D,2 player,Multiplayer,Competitive ~||
+https://assets.codepen.io/2104921/baskball.jpg ~||
+10/10/2022 ~||
+Miniclip ~||
+https://www.miniclip.com/ ~||
+desc ~||
+
+~~|%%|~~
+
+appel ~||
+Appel ~||
+Platformer,2D ~||
+https://assets.codepen.io/2104921/appel.png ~||
+10/10/2022 ~||
+griffpatch ~||
+https://scratch.mit.edu/users/griffpatch/ ~||
+desc ~||
+
+~~|%%|~~
+
+2048 ~||
+2048 ~||
+Educational,2D ~||
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2048_logo.svg/1200px-2048_logo.svg.png ~||
+10/10/2022 ~||
+Gabriele Cirulli ~||
+devlhttps://twitter.com/gabrielecirulliink ~||
+desc ~||
