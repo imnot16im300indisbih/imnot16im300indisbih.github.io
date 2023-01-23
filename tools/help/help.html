@@ -1,0 +1,148 @@
+<html lang="en">
+	<head>
+  <meta charset="UTF-8">
+  <title>real rx</title>
+		
+	<style>
+		body{
+	font-family:"Lexend";
+	line-height:50%;
+	margin:1%;
+	background-color:#303030;
+	color:white;
+	overflow-x:hidden;
+	-ms-overflow-style:none;
+	scrollbar-width:none;
+	font-weight:100;
+ padding-left:10px;
+}
+::-webkit-scrollbar {
+	display:none;
+}
+hr{
+	width:90%;
+  float:left;
+}
+h1{
+	color:#0073ff;
+	font-size:45px;
+	margin-left:0;
+}
+.frame{
+	float:left;
+	background-color:black;
+	padding:1%;
+	margin-right:1%;
+	margin-bottom:1%;
+}
+button:hover{
+  cursor:pointer;
+}
+.ttl{
+	font-size:2.7vw;
+	font-weight:bold;
+	line-height:90%;
+}
+.stt{
+	padding-top:1px;
+	font-size:2vw;
+	line-height:100%;
+}
+table {
+	font-family:"Lexend";
+ border-collapse:collapse;
+ width:98.3%;
+	font-size:20px;
+	line-height:100%;
+}
+th{
+	font-size:23px;
+	font-weight:bold;
+}
+td,th {
+	border:1px solid #dddddd;
+ text-align:left;
+ padding:8px;
+}
+tr{
+	background-color:#141414;
+}
+tr:nth-child(even) {
+ background-color: #232323;
+}
+a{
+	color:white;
+}
+		</style>
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lexend&display=swap">
+
+<h1 style="margin-bottom:25px;margin-top:35px;">Bob's Shack LiveStats</h1>
+
+<h1 style="color:gold;font-size:20px">⚠ This section is still under construction ⚠</h1>
+
+<div class="frame" style="width:30%;">
+	<font class="ttl">Website views</font><br>
+	<font id="hitcount" class="stt">...</font>
+</div>
+
+<div class="frame" style="width:10%;">
+	<font class="ttl">Games</font><br>
+	<font class="stt">...</font>
+</div>
+
+<div class="frame" style="width:12%;">
+	<font class="ttl">Videos</font><br>
+	<font class="stt">N/A</font>
+</div>
+
+<div class="frame" style="width:14%;">
+	<font class="ttl">Accounts</font><br>
+	<font class="stt">N/A</font>
+</div>
+
+<div class="frame" style="width:18%;">
+	<font class="ttl">Forum posts</font><br>
+	<font class="stt">N/A</font>
+</div>
+
+<hr style="width:98%"><br>
+
+<h1 style="line-height:100%">Bob's Shack FAQ</h1>
+
+<table style="margin-top:-20px;">
+  <tr>
+    <th>Question</th>
+    <th>Answer</th>
+  </tr>
+	
+	<tr>
+    <td>what is bobs shack</td>
+    <td>bobs shack is a fun, unblocked website full of games and entertainment.</td>
+ </tr>
+	<tr>
+    <td>what does beta</td>
+    <td>beta mean it beta</td>
+  </tr>
+	<tr>
+    <td>why bobs shack</td>
+    <td>bob</td>
+ </tr>
+	
+</table>
+<p style="font-size:15px;">Have a question that isn't addressed in the FAQ? Feel free to send an email to <a href="mailto:bob@bobs-shack.xyz" target="_blank">bob@bobs-shack.xyz</a> and ask anything</p>
+<!-- partial -->
+  <script>
+
+setInterval(function(){
+	fetch('https://api.countapi.xyz/get/bobs_shack/visits')
+		.then((response) => response.json())
+		.catch((error) => {})
+  .then((data) => (document.getElementById('hitcount').innerHTML = (numberWithCommas(Number(data.value)))) );
+},2000)
+	</script>
+
+</body>
+</html>
