@@ -1,0 +1,87 @@
+<html lang="en">
+	<head>
+  <meta charset="UTF-8">
+  <title>whatchu lookin at</title>
+		<style>
+body{
+	font-family:"Lexend";
+	line-height:50%;
+	margin:0;
+	background-color:#303030;
+	color:white;
+	overflow-x:hidden;
+	-ms-overflow-style:none;
+	scrollbar-width:none;
+	font-weight:100;
+  padding-left:10px;
+}
+::-webkit-scrollbar {
+	display:none;
+}
+hr{
+	width:90%;
+  float:left;
+}
+h1{
+	color:#0373FF;
+	font-size:45px;
+}
+button{
+	font-family:"Lexend";
+  float:left;
+  border:none;
+  background-color:black;
+  color:white;
+  padding:0px;
+  margin:5px;
+  font-size:25px;
+  width:200px;
+}
+button:hover{
+  cursor:pointer;
+}
+img{
+	width: 150px;
+ height: 150px;
+ filter: invert(100%);
+ margin-top: 20px;
+}
+		</style>
+		</head>
+	<body translate="no">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lexend&amp;display=swap">
+		<h1 style="margin-bottom:25px;margin-top:25px;margin-left:5px;">Soundboard v1</h1>
+
+<button id="android"><img src="https://cdn-icons-png.flaticon.com/512/56/56769.png"></img>android (loud)</button>
+<button id="aughh"><img src="https://cdn-icons-png.flaticon.com/512/56/56769.png"></img>auughhh</button>
+<button id="bell"><img src="https://cdn-icons-png.flaticon.com/512/56/56769.png"></img>taco bell</button>
+<button id="bonk"><img src="https://cdn-icons-png.flaticon.com/512/56/56769.png"></img>cartoon bonk</button>
+<button id="boom"><img src="https://cdn-icons-png.flaticon.com/512/56/56769.png"></img>vine boom</button>
+<button id="waterphone"><img src="https://cdn-icons-png.flaticon.com/512/56/56769.png"></img>waterphone</button>
+<button id="bruh"><img src="https://cdn-icons-png.flaticon.com/512/56/56769.png"></img>bruh</button>
+<button id="gahayum"><img src="https://cdn-icons-png.flaticon.com/512/56/56769.png"></img>gawh ayum</button>
+<button id="outro"><img src="https://cdn-icons-png.flaticon.com/512/56/56769.png"></img>outro music</button>
+<button id="running"><img src="https://cdn-icons-png.flaticon.com/512/56/56769.png"></img>goofy running</button>
+<button id="whatdahell"><img src="https://cdn-icons-png.flaticon.com/512/56/56769.png"></img>what da hell</button>
+<button id="scream"><img src="https://cdn-icons-png.flaticon.com/512/56/56769.png"></img>raaaah</button>
+<button id="sicko"><img src="https://cdn-icons-png.flaticon.com/512/56/56769.png"></img>sicko mode</button>
+<button id="slipping"><img src="https://cdn-icons-png.flaticon.com/512/56/56769.png"></img>goofy slipping</button>
+<button id="crickets"><img src="https://cdn-icons-png.flaticon.com/512/56/56769.png"></img>crickets</button>
+<button id="oof"><img src="https://cdn-icons-png.flaticon.com/512/56/56769.png"></img>oofmp3</button>
+<button id="dundun"><img src="https://cdn-icons-png.flaticon.com/512/56/56769.png"></img>dundun</button>
+<button id="scream2"><img src="https://cdn-icons-png.flaticon.com/512/56/56769.png"></img>oooaaah</button>
+  
+<script>
+var elems = document.getElementsByTagName("button")
+for (var i = 0; i < elems.length; i++ ) {
+  const en = elems[i]
+  
+  elems[i].onclick = function(){
+    let aud = new Audio('https://assets.codepen.io/2104921/'+en.id+'.mp3');
+    aud.play();
+  }
+}
+</script>
+
+	</body>
+</html>
