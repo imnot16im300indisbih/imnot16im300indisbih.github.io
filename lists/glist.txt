@@ -9,6 +9,28 @@ SORT BY DATE - https://fjolt.com/article/javascript-hate-sort-by-date ~||
 
 ~~|%%|~~
 
+gettingoverit ~||
+Getting over it ~||
+Rage,3D,Exploration ~||
+https://gettingoverit-game.com/wp-content/uploads/2022/08/getting-over-it-scratch.jpg ~||
+10/16/2022 ~||
+griffpatch ~||
+https://scratch.mit.edu/users/griffpatch/ ~||
+desc ~||
+
+~~|%%|~~
+
+deathchase3 ~||
+Death Chase 3 ~||
+Driving,Competitive,Racing,Multiplayer,2D,Arcade ~||
+https://assets.codepen.io/2104921/dc3.png ~||
+10/10/2022 ~||
+friv.com ~||
+https://www.friv.com/ ~||
+desc ~||
+
+~~|%%|~~
+
 matrix ~||
 Matrix Rampage ~||
 New,Fighting,2D,Arcade,Action,Endless ~||
@@ -22,7 +44,7 @@ desc ~||
 
 factoryballs ~||
 Factory Balls ~||
-New,Simulator,2D,Endless ~||
+Simulator,2D,Endless ~||
 https://assets.codepen.io/2104921/fact.png ~||
 1/22/2023 ~||
 engineering.com ~||
@@ -33,7 +55,7 @@ desc ~||
 
 brutal ~||
 Brutal Demo ~||
-New,Fighting,2D,RPG ~||
+Fighting,2D,RPG ~||
 https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Blank_Square.svg/1200px-Blank_Square.svg.png ~||
 1/22/2023 ~||
 Soulight_ ~||
@@ -44,7 +66,7 @@ desc ~||
 
 driftboss ~||
 Drift Boss ~||
-New,Drifting,3D,Endless ~||
+Drifting,3D,Endless ~||
 https://play-lh.googleusercontent.com/V-Sqg0Ch68gNuE1aGKt0lCT29YVwt1n8vZQrH56HWGoXSTV8PKzzmzrijGwDG9fZtLU=w240-h480-rw ~||
 1/22/2023 ~||
 MathPlayground ~||
@@ -55,7 +77,7 @@ desc ~||
 
 ballblast ~||
 Ball Blast ~||
-New,Arcade,2D,Endless ~||
+Arcade,2D,Endless ~||
 https://play-lh.googleusercontent.com/abdN9bVUywY3rcZ4y7fV0wwuCJIWugCusOqVtwPZdgUN3hvrZ8ORVUYQj8OTgAXLlJw ~||
 1/22/2023 ~||
 AnimationsScratch ~||
@@ -66,7 +88,7 @@ desc ~||
 
 terraria ~||
 Terraria ~||
-New,Adventure,2D,Exploration,Action,Open world ~||
+Adventure,2D,Exploration,Action,Open world ~||
 https://play-lh.googleusercontent.com/BoAvMI_6JGNRBp_3gFaVuLuqW_4J-rjtbR_giKFoJRvZmDiPtDlnLMur9cT7sTTfeos ~||
 1/22/2023 ~||
 scratchfan321 ~||
@@ -77,7 +99,7 @@ desc ~||
 
 cubesurfer ~||
 Cube Surfer ~||
-New,Endless,Mobile port,3D ~||
+Endless,Mobile port,3D ~||
 https://play-lh.googleusercontent.com/i5oYALfCXnfczjr5RroaJhpCLgVai8W28U3qEdx3vcn3tTea6CZtRrNEUeRIk0kQcQ ~||
 1/22/2023 ~||
 Voodoo ~||
@@ -88,7 +110,7 @@ desc ~||
 
 mine-sweeper ~||
 Mine Sweeper ~||
-New,Arcade,Competitive ~||
+Arcade,Competitive ~||
 https://assets.codepen.io/2104921/mcms.jpeg ~||
 1/22/2023 ~||
 Microsoft ~||
@@ -99,7 +121,7 @@ desc ~||
 
 vex6 ~||
 Vex 6 ~||
-New,Platformer,2D,Arcade,Adventure ~||
+Platformer,2D,Arcade,Adventure ~||
 https://assets.codepen.io/2104921/vex6.jpeg ~||
 1/22/2023 ~||
 Amazing Adam Games ~||
@@ -148,17 +170,6 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWN41CUpZ1mNxziYcvQIXmNsXY
 11/1/2022 ~||
 Matheus Valadares ~||
 https://twitter.com/matheus28?lang=en ~||
-desc ~||
-
-~~|%%|~~
-
-deathchase3 ~||
-Death Chase 3 ~||
-Driving,Competitive,Racing,Multiplayer,2D,Arcade ~||
-https://assets.codepen.io/2104921/dc3.png ~||
-10/10/2022 ~||
-friv.com ~||
-https://www.friv.com/ ~||
 desc ~||
 
 ~~|%%|~~
@@ -247,17 +258,6 @@ https://i1.sndcdn.com/artworks-2STcffJPEbtfr7oK-B1jZuw-t500x500.jpg ~||
 10/15/2022 ~||
 Krinkels and The-Swain ~||
 https://krinkels.newgrounds.com/ ~||
-desc ~||
-
-~~|%%|~~
-
-gettingoverit ~||
-Getting over it ~||
-Rage,3D,Exploration ~||
-https://gettingoverit-game.com/wp-content/uploads/2022/08/getting-over-it-scratch.jpg ~||
-10/16/2022 ~||
-griffpatch ~||
-https://scratch.mit.edu/users/griffpatch/ ~||
 desc ~||
 
 ~~|%%|~~
