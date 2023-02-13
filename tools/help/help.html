@@ -135,6 +135,10 @@ a{
 <p style="font-size:15px;">Have a question that isn't addressed in the FAQ? Feel free to send an email to <a href="mailto:bob@bobs-shack.xyz" target="_blank">bob@bobs-shack.xyz</a> and ask anything</p>
 <!-- partial -->
   <script>
+	  
+	  function numberWithCommas(x) {
+	return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+}
 
 setInterval(function(){
 	fetch('https://api.countapi.xyz/get/bobs_shack/visits')
