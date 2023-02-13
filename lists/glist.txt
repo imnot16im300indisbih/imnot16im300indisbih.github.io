@@ -86,17 +86,6 @@ desc ~||
 
 ~~|%%|~~
 
-doodlejump ~||
-Doodle Jump ~||
-New,Endless,2D,Mobile port ~||
-https://play-lh.googleusercontent.com/aHnvdFTx0LVyfVHQLX51VcWBYkSVGvggr4FvIiP-iwBu4pKBiOQA1OnRi_nyFdCWqlU8 ~||
-1/22/2023 ~||
-Lima Sky ~||
-http://www.limasky.com/ ~||
-desc ~||
-
-~~|%%|~~
-
 mine-sweeper ~||
 Mine Sweeper ~||
 New,Arcade,Competitive ~||
@@ -112,17 +101,6 @@ vex6 ~||
 Vex 6 ~||
 New,Platformer,2D,Arcade,Adventure ~||
 https://assets.codepen.io/2104921/vex6.jpeg ~||
-1/22/2023 ~||
-Amazing Adam Games ~||
-https://www.mostfungames.com/amazing-adam.htm ~||
-desc ~||
-
-~~|%%|~~
-
-vex7 ~||
-Vex 7 ~||
-New,Platformer,2D,Arcade,Adventure ~||
-https://assets.codepen.io/2104921/vex7.jpeg ~||
 1/22/2023 ~||
 Amazing Adam Games ~||
 https://www.mostfungames.com/amazing-adam.htm ~||
