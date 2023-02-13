@@ -25,7 +25,7 @@ document.getElementById("page").innerHTML = `
 <span class="hp-right">
 
 	<div class="hp-d" style="height:220px;">
-	<iframe scrolling="no" style="border:none;width:100%;height:100%;overflow:hidden;" src="https://cdpn.io/pen/debug/vYayrRo"></iframe>
+	<iframe scrolling="no" style="border:none;width:100%;height:100%;overflow:hidden;" src="https://imnot16im300indisbih.github.io/pages/poll.html"></iframe>
 	</div>
 	
 	<div class="hp-d" style="height:140px;">
