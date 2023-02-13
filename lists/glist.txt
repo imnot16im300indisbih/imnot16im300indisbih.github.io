@@ -11,7 +11,7 @@ SORT BY DATE - https://fjolt.com/article/javascript-hate-sort-by-date ~||
 
 policechasedrifter ~||
 Chase Drifter ~||
-Driving,2D,Drifting,Open world ~||
+New,Driving,2D,Drifting,Open world ~||
 https://i.ibb.co/wL7FzVP/Screen-Shot-2023-02-12-at-8-02-41-PM.png ~||
 2/12/2023 ~||
 Freezenova ~||
@@ -22,7 +22,7 @@ desc ~||
 
 maskedspecialforces ~||
 Masked Forces ~||
-Shooter,3D,FPS ~||
+New,Shooter,3D,FPS ~||
 https://play-lh.googleusercontent.com/kUqSYoGnvx_rFSM9sOQmfGk2tX63pcFF7XUD8f2_jG6S0lS6NySlQuHO6hyWjvp1L5Rb=w240-h480-rw ~||
 2/12/2023 ~||
 Freezenova ~||
@@ -33,7 +33,7 @@ desc ~||
 
 zombiederby ~||
 Zombie Derby ~||
-Driving,3D,Drifting,Rage ~||
+New,Driving,3D,Drifting,Rage ~||
 https://i.ibb.co/nsFHxyj/zombiederby.jpg ~||
 2/12/2023 ~||
 Freezenova ~||
@@ -44,7 +44,7 @@ desc ~||
 
 gettingoverit ~||
 Getting over it ~||
-Rage,3D,Exploration ~||
+New,Rage,3D,Exploration ~||
 https://gettingoverit-game.com/wp-content/uploads/2022/08/getting-over-it-scratch.jpg ~||
 10/16/2022 ~||
 griffpatch ~||
@@ -55,7 +55,7 @@ desc ~||
 
 deathchase3 ~||
 Death Chase 3 ~||
-Driving,Competitive,Racing,Multiplayer,2D,Arcade ~||
+New,Driving,Competitive,Racing,Multiplayer,2D,Arcade ~||
 https://assets.codepen.io/2104921/dc3.png ~||
 10/10/2022 ~||
 friv.com ~||
