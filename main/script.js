@@ -127,7 +127,7 @@ function setIcon(){
 	}
 	var icon = localStorage.getItem('tabCloak')
 	if (icon=="Default"){
-		link.href = 'https://assets.codepen.io/2104921/bobs-logo.png';
+		link.href = 'https://i.ibb.co/RgKTfQj/bobs-logo.webp';
 		document.title = "Bob's Shack"
 	}
 	if (icon=="Schoology"){
@@ -165,7 +165,7 @@ window.onload = function(){
 	
 	document.body.innerHTML = `
 	<div class="sidebar">
-	<a href="#h"><img draggable="false" title="Home" style="filter:none;" class="sideimg-t" src="https://assets.codepen.io/2104921/bobslogo.png"></img></a>
+	<a href="#h"><img draggable="false" title="Home" style="filter:none;" class="sideimg-t" src="https://i.ibb.co/RgKTfQj/bobs-logo.webp"></img></a>
 	<a onclick="showPopup('notifs')"><img draggable="false" title="Notifications" style="top:50px;" class="sideimg-t" src="https://cdn-icons-png.flaticon.com/128/542/542689.png"></img></a>
 
 	<a onclick="showPopup('inprogress')"><img draggable="false" title="Profile" style="bottom:4px;" class="sideimg-b" src="https://cdn-icons-png.flaticon.com/128/456/456212.png"></img></a>
