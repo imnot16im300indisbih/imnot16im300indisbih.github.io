@@ -1,6 +1,6 @@
 document.getElementById("overlay").style.display = "none"
 document.getElementById("page").innerHTML = `
-<img class="banner" src="https://assets.codepen.io/2104921/busstopbanner.jpg"></img>
+<img class="banner" src="https://i.ibb.co/G3g4dKG/Screen-Shot-2023-02-12-at-7-36-45-PM.png"></img>
 
 <span class="hp-left">
 
