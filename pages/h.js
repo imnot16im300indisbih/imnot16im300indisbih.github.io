@@ -1,6 +1,6 @@
 document.getElementById("overlay").style.display = "none"
 document.getElementById("page").innerHTML = `
-<img class="banner" src="https://i.ibb.co/G3g4dKG/Screen-Shot-2023-02-12-at-7-36-45-PM.png"></img>
+<img class="banner" src="https://i.ibb.co/yYK0BtL/naturescene-transformed.jpg"></img>
 
 <span class="hp-left">
 
@@ -27,13 +27,7 @@ document.getElementById("page").innerHTML = `
 	<p style="font-size:40px;color:#0373FF;font-weight:bold;">NEWS/UPDATES</p>
 		<p style="font-size:35px;font-weight:bold;margin-bottom:0;">v6.0.0 UPDATE</p>
 		<p style="font-size:25px;line-height:110%;margin-top:20px;">
-		-3 new games<br>
-		-New poll<br>
-		-Update GOTM banner<br>
-		-Fixed various games<br>
-		-Fixed unsafe warning bug<br>
-		-Fixed emulator blocked<br>
-		-Fixed Bob's Help tool<br>
+		update in progress
 		</p>
 	</div>
 
