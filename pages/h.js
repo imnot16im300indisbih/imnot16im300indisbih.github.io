@@ -9,7 +9,16 @@ document.getElementById("page").innerHTML = `
 	</div>
 	
 	<div class="hp-d" style="height:calc(361px + 1vw);">
-		<p style="font-size:40px;color:#0373FF;font-weight:bold;">NEWS/UPDATES</p>
+		<p style="font-size:40px;color:#0373FF;font-weight:bold;margin-bottom:0;">RANDOM FACT</p>
+		<p id="randFact" style="font-size:25px;line-height:110%;margin-top:30px;">...</p>
+	</div>
+	
+</span>
+
+<span class="hp-right">
+
+	<div class="hp-d" style="height:220px;">
+	<p style="font-size:40px;color:#0373FF;font-weight:bold;">NEWS/UPDATES</p>
 		<p style="font-size:35px;font-weight:bold;margin-bottom:0;">v6.0.0 UPDATE</p>
 		<p style="font-size:25px;line-height:110%;margin-top:20px;">
 		-3 new games<br>
@@ -22,18 +31,10 @@ document.getElementById("page").innerHTML = `
 		</p>
 	</div>
 	
-</span>
-
-<span class="hp-right">
-
-	<div class="hp-d" style="height:220px;">
-	<iframe scrolling="no" style="border:none;width:100%;height:100%;overflow:hidden;" src="https://imnot16im300indisbih.github.io/pages/poll.html"></iframe>
-	</div>
-	
-	<div class="hp-d" style="height:140px;">
+	<!--<div class="hp-d" style="height:140px;">
 		<p style="font-size:40px;color:#0373FF;font-weight:bold;margin-bottom:0;">RANDOM FACT</p>
 		<p id="randFact" style="font-size:25px;line-height:110%;margin-top:30px;">...</p>
-	</div>
+	</div>-->
 	
 	<div class="hp-d" style="height:85px;">
 	<p style="font-size:17px;padding-bottom:6px;">©Copyright 2020-2022 Bob’s Shack</p>
