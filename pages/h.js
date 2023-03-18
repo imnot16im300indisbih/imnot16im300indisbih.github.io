@@ -8,7 +8,7 @@ document.getElementById("page").innerHTML = `
 		<p style="font-size:30px;">Welcome to <b>Bob's Shack</b>!</p>
 	</div>
 	
-	<div class="hp-d" style="height:calc(130px + 1vw);">
+	<div class="hp-d" style="height:130px;">
 		<p style="font-size:40px;color:#0373FF;font-weight:bold;margin-bottom:0;">RANDOM FACT</p>
 		<p id="randFact" style="font-size:25px;line-height:110%;margin-top:30px;">...</p>
 	</div>
@@ -23,7 +23,7 @@ document.getElementById("page").innerHTML = `
 
 <span class="hp-right">
 
-	<div class="hp-d" style="height:340px;">
+	<div class="hp-d" style="height:calc(302px + 2vw);">
 	<p style="font-size:40px;color:#0373FF;font-weight:bold;">NEWS/UPDATES</p>
 		<p style="font-size:35px;font-weight:bold;margin-bottom:0;">v6.0.0 UPDATE</p>
 		<p style="font-size:25px;line-height:110%;margin-top:20px;">
