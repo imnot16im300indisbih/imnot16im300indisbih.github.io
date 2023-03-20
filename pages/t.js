@@ -20,11 +20,11 @@ document.getElementById("page").innerHTML = `
 	<p class="toolDesc">Specially optimized Bob’s Shack proxy using Incognito as a backend</p>
 </button>-->
 
-<button name="emulator" class="tool" onclick="window.location.hash = 't-emulator'">
+<!--<button name="emulator" class="tool" onclick="window.location.hash = 't-emulator'">
 	<img class="toolImg" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1280,h_720/https://blog.snappa.com/wp-content/uploads/2019/01/YouTube-Thumbnail-Dimensions.jpg"></img>
 	<h1 class="toolTitle">Emulator</h1>
 	<p class="toolDesc">Flexible emulation system that supports lots of different consoles and ROMS</p>
-</button>
+</button>-->
 
 <button name="soundboard" class="tool" onclick="window.location.hash = 't-soundboard'">
 	<img class="toolImg" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1280,h_720/https://blog.snappa.com/wp-content/uploads/2019/01/YouTube-Thumbnail-Dimensions.jpg"></img>
