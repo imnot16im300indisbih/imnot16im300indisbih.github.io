@@ -9,6 +9,17 @@ SORT BY DATE - https://fjolt.com/article/javascript-hate-sort-by-date ~||
 
 ~~|%%|~~
 
+fancypants ~||
+FancyPants Adventure ~||
+Platformer,2D,Adventure,Story ~||
+https://i.ibb.co/Qbg0Mms/Screen-Shot-2023-03-19-at-9-03-39-PM.png ~||
+3/19/2023 ~||
+Borne Games ~||
+https://www.bornegames.com/ ~||
+desc ~||
+
+~~|%%|~~
+
 tacomia ~||
 Papa's TacoMia ~||
 Adventure,Endless,Simulator,Story,2D ~||
