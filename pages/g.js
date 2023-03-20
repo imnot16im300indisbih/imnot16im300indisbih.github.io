@@ -67,7 +67,7 @@ document.getElementById("page").innerHTML = `
 <button id="gCount" class="gvCount">10 games</button>
 <hr class="fHr">
 
-<a href="#g-retro-bowl"><img class="gotm-banner" src="https://i.ibb.co/CPprXV0/gotmjan-transformed.jpg"></a>
+<a href="https://forms.gle/XJLsPfPrY3XFp2RC9" target="_blank"><img class="gotm-banner" src="https://i.ibb.co/QvTH8KW/gotmnull.jpg"></a>
 <hr class="fHr" style="border-color:gray;">
 
 
