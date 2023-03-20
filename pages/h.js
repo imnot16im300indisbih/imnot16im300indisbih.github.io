@@ -14,9 +14,9 @@ document.getElementById("page").innerHTML = `
 	</div>
 	
 	<div class="hp-d" style="height:85px;">
-	<p style="font-size:17px;padding-bottom:6px;">©Copyright 2020-2022 Bob’s Shack</p>
+	<p style="font-size:17px;padding-bottom:6px;">©Copyright 2020-2023 Bob’s Shack</p>
 	<a style="font-size:20px;" class="tLink" onclick="showPopup('credits')">Credits</a>
-	<p style="font-size:20px;padding-top:6px;">Contact: bob@bobs-shack.xyz</p>
+	<p style="font-size:20px;padding-top:6px;">Contact: bobs.secret.shack@gmail.com</p>
 </div>
 	
 </span>
