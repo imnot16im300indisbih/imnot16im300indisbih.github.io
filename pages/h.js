@@ -25,13 +25,10 @@ document.getElementById("page").innerHTML = `
 
 	<div class="hp-d" style="height:calc(302px + 2vw);">
 	<p style="font-size:40px;color:#0373FF;font-weight:bold;">NEWS/UPDATES</p>
-		<p style="font-size:35px;font-weight:bold;margin-bottom:0;">v6.1.1 UPDATE</p>
+		<p style="font-size:35px;font-weight:bold;margin-bottom:0;">9/5/23 announcement</p>
 		<p style="font-size:25px;line-height:110%;margin-top:20px;">
-		-2 new games<br>
-		-Removed blocked games and tools<br>
-		-Small UI changes<br>
-		-New banner and GOTM<br>
-		-Changes to forums (see <a href="https://peerboard.com/583030755/post/1601207729" target="_blank">here</a>)
+		The forum service Bob's Shack previously used has been bought out by a different company and has been therefore shut down. <a href="https://bgs.boards.net/" target="_blank">These are the new (temporary) forums.</a>
+		
 		</p>
 	</div>
 
