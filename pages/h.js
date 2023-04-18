@@ -27,7 +27,8 @@ document.getElementById("page").innerHTML = `
 	<p style="font-size:40px;color:#0373FF;font-weight:bold;">NEWS/UPDATES</p>
 		<p style="font-size:35px;font-weight:bold;margin-bottom:0;">9/5/23 announcement</p>
 		<p style="font-size:25px;line-height:110%;margin-top:20px;">
-		The forum service Bob's Shack previously used has been bought out by a different company and has been therefore shut down. <a href="https://bgs.boards.net/" target="_blank">These are the new (temporary) forums.</a>
+		There are new forums, access them <a href="https://bobs.flarum.cloud/" target="_blank">here</a>.
+		Games are being fixed
 		
 		</p>
 	</div>
